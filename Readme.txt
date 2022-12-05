@@ -6,5 +6,6 @@ IXI dataset Available online: https://brain-development.org/ixi-dataset/.
 
 epoch = 2000
 batch size = 8
-tensorflow=
-keras= 2.4
+Python = 3.7
+tensorflow= 2.4.0
+keras= 2.4.0
